@@ -5,7 +5,7 @@
     </td>
     <td>
       
-👋 Why hello there!
+👋 I'm Josh!
 
 🌱 **Passions**: Fullstack Development, Side-eye dogs, AI/ML
 
